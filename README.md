@@ -65,7 +65,7 @@ Driver support depends on the device you are using shimboot on. The `patch_rootf
 | [`kefka`](https://chrome100.dev/board/kefka)     | no<sup>[1]</sup>  | yes               | yes      | yes       | untested    | no       | untested  | untested |
 | [`zork`](https://chrome100.dev/board/zork)       | yes               | yes               | no       | untested  | yes         | yes      | yes       | yes      |
 | [`grunt`](https://chrome100.dev/board/grunt)     | yes               | yes               | no       | yes       | yes         | yes      | yes       | yes      |
-| [`jacuzzi`](https://chrome100.dev/board/jacuzzi) | yes               | yes               | no       | yes       | untested    | no       | no        | yes      |
+| [`jacuzzi`](https://chrome100.dev/board/jacuzzi) | yes               | yes               | no       | yes       | yes    | no       | no        | yes      |
 | [`corsola`](https://chrome100.dev/board/corsola) | yes               | yes               | untested | untested  | untested    | untested | untested  | untested |
 | [`hatch`](https://chrome100.dev/board/hatch)     | yes               | yes<sup>[2]</sup> | no       | yes       | yes         | yes      | yes       | yes      |
 
